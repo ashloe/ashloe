@@ -3,13 +3,16 @@
   "resourceVersion": "1.0",
   "name": "obj_editor_wall",
   "spriteId": {
-    "name": "spr_editor_wall",
-    "path": "sprites/spr_editor_wall/spr_editor_wall.yy",
+    "name": "_20_by_20_orthogonal_maze_1_",
+    "path": "sprites/_20_by_20_orthogonal_maze_1_/_20_by_20_orthogonal_maze_1_.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "_20_by_20_orthogonal_maze_1_",
+    "path": "sprites/_20_by_20_orthogonal_maze_1_/_20_by_20_orthogonal_maze_1_.yy",
+  },
   "persistent": false,
   "parentObjectId": {
     "name": "obj_collision_parent",

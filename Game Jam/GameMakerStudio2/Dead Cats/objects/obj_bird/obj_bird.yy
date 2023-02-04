@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_bat",
+  "name": "obj_bird",
   "spriteId": {
     "name": "Sprite67",
     "path": "sprites/Sprite67/Sprite67.yy",
