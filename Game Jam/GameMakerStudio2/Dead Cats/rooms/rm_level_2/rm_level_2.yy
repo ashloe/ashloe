@@ -23,6 +23,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_32ECBD74","properties":[],"isDnd":false,"objectId":{"name":"obj_collision_parent","path":"objects/obj_collision_parent/obj_collision_parent.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":32.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_9A2E7D2","properties":[],"isDnd":false,"objectId":{"name":"obj_bird","path":"objects/obj_bird/obj_bird.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":544.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2C2045A","properties":[],"isDnd":false,"objectId":{"name":"obj_dog","path":"objects/obj_dog/obj_dog.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1408.0,"y":32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_37BB2005","properties":[],"isDnd":false,"objectId":{"name":"obj_othercat","path":"objects/obj_othercat/obj_othercat.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":64.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5A1BE9F","properties":[],"isDnd":false,"objectId":{"name":"obj_npcdog","path":"objects/obj_npcdog/obj_npcdog.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1088.0,"y":64.0,},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Decoration","tilesetId":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":128,"SerialiseHeight":128,"TileCompressedData":[
 -16384,-2147483648,],},"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
@@ -60,6 +62,8 @@
     {"name":"inst_9A2E7D2","path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"inst_2C2045A","path":"rooms/rm_level_2/rm_level_2.yy",},
     {"name":"inst_511F820A","path":"rooms/rm_level_2/rm_level_2.yy",},
+    {"name":"inst_37BB2005","path":"rooms/rm_level_2/rm_level_2.yy",},
+    {"name":"inst_5A1BE9F","path":"rooms/rm_level_2/rm_level_2.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
